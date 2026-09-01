@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="rosewood">#B76E79</color>
+    <color name="rosewood_dark">#9E5A64</color>
+    <color name="rosewood_soft">#EAD3D7</color>
+    <color name="gold">#C6A16B</color>
+
+    <!-- Neutrals -->
+    <color name="ivory">#FBF6F2</color>
+    <color name="ivory_dim">#F3EBE4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="espresso">#2B2320</color>
+    <color name="espresso_muted">#5B504A</color>
+    <color name="taupe">#9A8C83</color>
+    <color name="hairline">#ECE3DB</color>
+
+    <color name="heart">#D46A78</color>
+    <color name="scrim">#33000000</color>
+
+    <!-- Product tile gradient stops -->
+    <color name="tile_rosewood_a">#C98A94</color>
+    <color name="tile_rosewood_b">#8E5560</color>
+    <color name="tile_espresso_a">#4A3F3A</color>
+    <color name="tile_espresso_b">#221C19</color>
+    <color name="tile_olive_a">#9A9873</color>
+    <color name="tile_olive_b">#5E5C41</color>
+    <color name="tile_wine_a">#8C3E4F</color>
+    <color name="tile_wine_b">#4E1F2C</color>
+    <color name="tile_sky_a">#B6C7D6</color>
+    <color name="tile_sky_b">#7E97AC</color>
+    <color name="tile_blush_a">#F0D2D6</color>
+    <color name="tile_blush_b">#D7A9AF</color>
+    <color name="tile_sand_a">#D8BC93</color>
+    <color name="tile_sand_b">#B08E5F</color>
+</resources>

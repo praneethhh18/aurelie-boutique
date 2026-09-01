@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AURÉLIE</string>
+    <string name="wordmark">AURÉLIE</string>
+
+    <string name="hero_kicker">The Bodycon Edit</string>
+    <string name="hero_title">Dresses cut to move with you</string>
+    <string name="hero_subtitle">Sculpting knits, second-skin crepe, and mesh — fitted, never restrictive.</string>
+
+    <string name="section_new">Shop the edit</string>
+
+    <string name="badge_new">New</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_bag">Bag</string>
+
+    <string name="nav_shop">Shop</string>
+    <string name="nav_wishlist">Wishlist</string>
+    <string name="nav_account">Account</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_favourite">Add to wishlist</string>
+    <string name="cd_product_image">Product photo</string>
+
+    <string name="colour_label">Colour</string>
+    <string name="size_label">Select size</string>
+    <string name="size_guide">Size guide</string>
+    <string name="details_label">The details</string>
+    <string name="add_to_bag">Add to bag</string>
+
+    <string name="rating_format">★ %1$.1f · %2$d reviews</string>
+    <string name="select_size_first">Choose a size to continue</string>
+    <string name="added_to_bag">Added · %1$s (%2$s)</string>
+
+    <string name="empty_title">Nothing here yet</string>
+    <string name="empty_body">Try another category from the edit above.</string>
+
+    <string name="hint_search">Search is on the way</string>
+    <string name="hint_bag">Your bag is empty</string>
+    <string name="hint_coming_soon">Coming soon</string>
+
+    <string name="free_shipping">Free shipping over $75 · 30-day returns</string>
+
+    <plurals name="result_count">
+        <item quantity="one">%d style</item>
+        <item quantity="other">%d styles</item>
+    </plurals>
+</resources>

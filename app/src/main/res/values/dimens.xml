@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_margin">20dp</dimen>
+    <dimen name="grid_gutter">14dp</dimen>
+
+    <dimen name="tile_height">220dp</dimen>
+    <dimen name="tile_height_tall">300dp</dimen>
+    <dimen name="hero_height">460dp</dimen>
+
+    <dimen name="card_radius">20dp</dimen>
+    <dimen name="tile_radius">16dp</dimen>
+
+    <dimen name="swatch_size">14dp</dimen>
+    <dimen name="swatch_size_large">30dp</dimen>
+    <dimen name="swatch_gap">8dp</dimen>
+</resources>

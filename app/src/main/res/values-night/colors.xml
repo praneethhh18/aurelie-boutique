@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rosewood">#D69AA3</color>
+    <color name="rosewood_dark">#B87883</color>
+    <color name="rosewood_soft">#3A2C2F</color>
+    <color name="gold">#D8B784</color>
+
+    <color name="ivory">#141110</color>
+    <color name="ivory_dim">#1E1A18</color>
+    <color name="surface">#211C1A</color>
+    <color name="espresso">#F2E9E3</color>
+    <color name="espresso_muted">#C9BEB6</color>
+    <color name="taupe">#9A8C83</color>
+    <color name="hairline">#332C28</color>
+
+    <color name="heart">#E58A96</color>
+    <color name="scrim">#66000000</color>
+</resources>
